@@ -1,4 +1,4 @@
-# mcpc_queue
+# mpmc_queue
 
 Minimal C++20 project configured with CMake and GoogleTest.
 
